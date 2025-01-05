@@ -1,0 +1,11 @@
+5.	{
+6.	    // Name this configuration
+7.	    "name": "Codespace for Skills!",
+8.	    "customizations": {
+9.	        "vscode": {
+10.	            "extensions": [
+11.	                "GitHub.copilot"
+12.	            ]
+13.	        }
+14.	    }
+15.	}
